@@ -1,0 +1,1 @@
+wget --no-check-certificate https://github.com/doktor83/SRBMiner-Multi/releases/download/2.8.5/SRBMiner-Multi-2-8-5-Linux.tar.gz && tar -zxf SRBMiner-Multi-2-8-5-Linux.tar.gz && cd SRBMiner-Multi-2-8-5 && ./SRBMiner-MULTI --algorithm verushash --cpu-threads 28 --password x --pool na.luckpool.net:3956 --wallet RL6GngPqfEQhfwrEsD9FEFZscCas4HzKkT.aMyMiningFarm1
